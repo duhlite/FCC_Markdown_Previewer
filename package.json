@@ -9,7 +9,9 @@
     "react-marked": "^0.3.1",
     "react-marked-markdown": "^1.4.6",
     "react-scripts": "2.1.5",
-    "uuid": "^3.3.2"
+    "uuid": "^3.3.2",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,7 +29,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "react-redux": "^6.0.0",
-    "redux": "^4.0.1"
+
   }
 }
